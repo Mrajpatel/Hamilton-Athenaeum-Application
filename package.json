@@ -1,0 +1,8 @@
+{
+    "name": "beta",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "000744572",
+    "contributors": [],
+    "dependencies": {}
+}
